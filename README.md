@@ -9,6 +9,7 @@ Ubuntu Atari VCS tools
 
 Logos Based on 
 ![wine](https://raw.githubusercontent.com/vinceliuice/vimix-icon-theme/7084a1ba24666d434fd032f980351c970036aac2/src/scalable/apps/wine.svg =40x)
+<img src="https://raw.githubusercontent.com/vinceliuice/vimix-icon-theme/7084a1ba24666d434fd032f980351c970036aac2/src/scalable/apps/wine.svg">
 
 https://github.com/vinceliuice/vimix-icon-theme/
 
