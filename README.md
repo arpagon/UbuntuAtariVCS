@@ -7,11 +7,6 @@ Atari VCS
 # UbuntuAtariVCS
 Ubuntu Atari VCS tools
 
-Logos Based on 
-![wine](https://raw.githubusercontent.com/vinceliuice/vimix-icon-theme/7084a1ba24666d434fd032f980351c970036aac2/src/scalable/apps/wine.svg =40x)
-<img src="https://raw.githubusercontent.com/vinceliuice/vimix-icon-theme/7084a1ba24666d434fd032f980351c970036aac2/src/scalable/apps/wine.svg">
-
-https://github.com/vinceliuice/vimix-icon-theme/
 
 ## HW
 ![](https://minio.sapian.cloud/sapian-hackmd-public-bucket/uploads/upload_299c71eddfb3c843fcde95c7b12becda.png)
@@ -116,6 +111,9 @@ echo '%atari ALL=(ALL) NOPASSWD: /usr/local/sbin/boot-on-atari.sh' >> /etc/sudoe
 
 # Desktop File
 
+# thanks
+
+[@vinceliuice](https://github.com/vinceliuice): Logos Based on Creative Commons logos https://github.com/vinceliuice/vimix-icon-theme/ wine log <img src="https://raw.githubusercontent.com/vinceliuice/vimix-icon-theme/7084a1ba24666d434fd032f980351c970036aac2/src/scalable/apps/wine.svg" width="40">
 
 # TODO
 https://github.com/1nfiniteloop/pam-http
