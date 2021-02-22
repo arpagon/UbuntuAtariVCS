@@ -1,0 +1,11 @@
+[Desktop Entry]
+Categories=Application;System;
+Comment=Reboot on Atari OS
+Encoding=UTF-8
+Exec=/usr/local/sbin/boot-on-atari.sh
+Icon=/usr/share/icons/hicolor/scalable/apps/reboot-atari.svg
+Name=Reboot Atari
+NoDisplay=false
+StartupNotify=false
+Terminal=false
+Type=Application

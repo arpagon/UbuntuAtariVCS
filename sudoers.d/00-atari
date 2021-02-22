@@ -1,0 +1,4 @@
+%atari ALL=(ALL) NOPASSWD: /usr/sbin/grub-reboot 
+%atari ALL=(ALL) NOPASSWD: /usr/local/sbin/boot-on-windows.sh
+%atari ALL=(ALL) NOPASSWD: /usr/local/sbin/boot-on-uefi-boot-manager.sh
+%atari ALL=(ALL) NOPASSWD: /usr/local/sbin/boot-on-atari.sh

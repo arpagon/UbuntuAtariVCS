@@ -1,0 +1,11 @@
+[Desktop Entry]
+Categories=Application;System;
+Comment=Reboot on UEFI Boot Manager
+Encoding=UTF-8
+Exec=/usr/local/sbin/boot-on-uefi-boot-manager.sh
+Icon=/usr/share/icons/hicolor/scalable/apps/reboot-uefi.svg
+Name=Reboot-UEFI
+NoDisplay=false
+StartupNotify=false
+Terminal=false
+Type=Application

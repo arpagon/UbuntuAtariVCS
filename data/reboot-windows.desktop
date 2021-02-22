@@ -1,0 +1,11 @@
+[Desktop Entry]
+Categories=Application;System;
+Comment=Reboot on Windows OS
+Encoding=UTF-8
+Exec=/usr/local/sbin/boot-on-windows.sh
+Icon=/usr/share/icons/hicolor/scalable/apps/reboot-windows.svg
+Name=Reboot-Windows
+NoDisplay=false
+StartupNotify=false
+Terminal=false
+Type=Application

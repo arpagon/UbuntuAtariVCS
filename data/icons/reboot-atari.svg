@@ -22,7 +22,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -35,75 +35,60 @@
      guidetolerance="10"
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
-     inkscape:window-width="1920"
-     inkscape:window-height="1021"
+     inkscape:window-width="1460"
+     inkscape:window-height="757"
      id="namedview27"
      showgrid="false"
-     inkscape:zoom="1.1918616"
-     inkscape:cx="266.25889"
-     inkscape:cy="288.90702"
-     inkscape:window-x="0"
-     inkscape:window-y="27"
-     inkscape:window-maximized="1"
+     inkscape:zoom="0.5959308"
+     inkscape:cx="-13.441773"
+     inkscape:cy="276.5315"
+     inkscape:window-x="-534"
+     inkscape:window-y="122"
+     inkscape:window-maximized="0"
      inkscape:current-layer="g21"
      inkscape:document-rotation="0" />
   <defs
-     id="defs5"><filter
-   id="a"
-   x="-.024"
-   y="-.024"
-   width="1.048"
-   height="1.048"
-   color-interpolation-filters="sRGB">
-  <feGaussianBlur
-     stdDeviation="4.48"
-     id="feGaussianBlur2" />
-</filter>
-<filter
-   inkscape:collect="always"
-   style="color-interpolation-filters:sRGB"
-   id="filter897"
-   x="-0.03152727"
-   width="1.0630545"
-   y="-0.038533337"
-   height="1.0770667">
-  <feGaussianBlur
-     inkscape:collect="always"
-     stdDeviation="2.4644392"
-     id="feGaussianBlur899" />
-</filter>
-<clipPath
-   clipPathUnits="userSpaceOnUse"
-   id="clipPath1184">
-  <rect
-     transform="matrix(0,-1,-1,0,0,0)"
-     x="-346"
-     y="-774"
-     width="448"
-     height="448"
-     rx="36"
-     ry="36"
-     fill="#992b2b"
-     id="rect1186"
-     style="fill:#00adef;fill-opacity:1" />
-</clipPath>
-
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-</defs>
+     id="defs5">
+    <filter
+       id="a"
+       x="-.024"
+       y="-.024"
+       width="1.048"
+       height="1.048"
+       color-interpolation-filters="sRGB">
+      <feGaussianBlur
+         stdDeviation="4.48"
+         id="feGaussianBlur2" />
+    </filter>
+    <filter
+       inkscape:collect="always"
+       style="color-interpolation-filters:sRGB"
+       id="filter897"
+       x="-0.03152727"
+       width="1.0630545"
+       y="-0.038533337"
+       height="1.0770667">
+      <feGaussianBlur
+         inkscape:collect="always"
+         stdDeviation="2.4644392"
+         id="feGaussianBlur899" />
+    </filter>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath1184">
+      <rect
+         transform="matrix(0,-1,-1,0,0,0)"
+         x="-346"
+         y="-774"
+         width="448"
+         height="448"
+         rx="36"
+         ry="36"
+         fill="#992b2b"
+         id="rect1186"
+         style="fill:#00adef;fill-opacity:1" />
+    </clipPath>
+  </defs>
   <g
      transform="translate(0,212)"
      id="g23">
@@ -158,7 +143,7 @@
          ry="36"
          fill="#992b2b"
          id="rect13"
-         style="fill:#00adef;fill-opacity:1" />
+         style="fill:#dc1a15;fill-opacity:1" />
       <path
          d="m276-196c-19.944 0-36 16.056-36 36v2c0-19.944 16.056-36 36-36h376c19.944 0 36 16.056 36 36v-2c0-19.944-16.056-36-36-36z"
          fill="#fff"

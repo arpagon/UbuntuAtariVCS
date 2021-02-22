@@ -103,13 +103,17 @@ This should take care of the initial set-up. In the future, just do grub-reboot 
 sudo addgroup atari
 usermod -a -G atari arpagon
 usermod -a -G atari mutantarpagon
-
-echo '%atari ALL=(ALL) NOPASSWD: /usr/local/sbin/boot-on-windows.sh' > /etc/sudoers.d/00-atari
-echo '%atari ALL=(ALL) NOPASSWD: /usr/local/sbin/boot-on-uefi-boot-manager.sh' >> /etc/sudoers.d/00-atari
-echo '%atari ALL=(ALL) NOPASSWD: /usr/local/sbin/boot-on-atari.sh' >> /etc/sudoers.d/00-atari
 ```
 
+
 # Desktop File
+
+``` bash
+scp Workspace/UbuntuAtariVCS/data/icons/* root@192.168.1.43:/usr/share/icons/hicolor/scalable/apps/
+scp Workspace/UbuntuAtariVCS/data/reboot-*desktop root@192.168.1.43:/usr/share/applications/
+scp Workspace/UbuntuAtariVCS/data/reboot-*desktop mutantarpagon@192.168.1.43:~/Desktop/
+scp Workspace/UbuntuAtariVCS/data/reboot-*desktop arpagon@192.168.1.43:~/Desktop/
+```
 
 # thanks
 
